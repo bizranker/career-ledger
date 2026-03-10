@@ -1,4 +1,4 @@
-# career-ops
+# career-ledger
 
 Operational continuity repository for Brian Bills' active engineering, recruiting, and portfolio campaign.
 
