@@ -84,7 +84,7 @@ The app previously worked in production and a backup copy exists, along with dat
 ## Repo Structure
 
 ```text
-career-ops/
+career-ledger/
 ├ README.md
 ├ handoffs/
 ├ recruiters/
